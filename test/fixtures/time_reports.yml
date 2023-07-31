@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2023-07-30
+  hours_worked: 9.99
+  employee_id: MyString
+  job_group: MyString
+
+two:
+  date: 2023-07-30
+  hours_worked: 9.99
+  employee_id: MyString
+  job_group: MyString
